@@ -1,0 +1,52 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #ffffff; 
+    color: #333;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  .nav-link {
+    color: #fff !important;
+  }
+  
+  .nav-link.btn {
+    color: #fff !important;
+    font-weight: 500;
+  }
+  
+  .text-danger {
+    color: #c75b5b !important;
+  }
+  
+  .fototentangsaya {
+    width: 100%;
+    max-width: 400px; 
+    height: 100%; 
+  }
+  .nav-link.active {
+    border: 2px solid red;  
+    border-radius: 5px;      
+    padding: 5px 10px;       
+  }
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  
+  footer {
+    background-color: #222;
+    color: #eee;
+    font-size: 14px;
+  }
+  body {
+    background-image: url('https://i.pinimg.com/236x/1a/b9/69/1ab969331914b5801e52267a0309b8d6.jpg'); /* Ganti path sesuai gambar kamu */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  
